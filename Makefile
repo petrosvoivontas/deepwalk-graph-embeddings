@@ -1,7 +1,7 @@
 .PHONY: all clean
 
 all: venv
-	$(VENV)/python -m ipykernel install --user --name=community-detection-lab
+	$(VENV)/python -m ipykernel install --user --name=deepwalk
 
 clean: clean-venv
 
