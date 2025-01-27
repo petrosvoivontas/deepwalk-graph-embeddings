@@ -28,6 +28,7 @@ You can also run the jupyter notebook using `make` commands
 For example
 
 ```
+make
 make bash 
 jupyter-notebook ./deepwalk.ipynb
 ```
